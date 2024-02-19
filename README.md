@@ -1,4 +1,8 @@
+
+
 This project is a clone of the popular Indian payment gateway, Razorpay, built using HTML and Tailwind CSS. It aims to replicate the design and layout of the original platform for educational purposes or personal development.
+
+![image](https://github.com/achintyashende/Razorpay-Website-Clone/assets/93874718/2080359d-66b6-4251-8cea-1a22e1691494)
 
 Important Note: This project is not intended for production use. It does not handle real payment processing and does not comply with security regulations for financial transactions.
 
