@@ -25,7 +25,7 @@ No user accounts or authentication
 Prerequisites: Node.js (version 14 or higher), npm (or yarn)
 
 # Installation:
-Clone the repository: git clone https://github.com/your-username/Razorpay-Website-Clone.git
+Clone the repository: git clone https://github.com/achintyashende/Razorpay-Website-Clone.git
 
 Install dependencies: npm install (or yarn install)
 Run the development server: npm start (or yarn start)
